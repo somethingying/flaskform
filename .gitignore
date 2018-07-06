@@ -10,6 +10,7 @@ dist
 build
 eggs
 parts
+.idea
 bin
 var
 sdist
